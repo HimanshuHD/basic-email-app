@@ -1,6 +1,16 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Basic Email App
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+
+## Get the CODE
+
+Setup code locally using Git Bash or Github Desktop app
+
+```bash
+# use below command to clone the repository
+git clone https://github.com/HimanshuHD/basic-email-app.git
+
+```
 
 ## Setup
 
